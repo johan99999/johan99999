@@ -15,10 +15,11 @@
   * Diecast
   * Anime & Manga
   * Workouts
+  * Arts
+ 
+    ![new icon](https://github.com/user-attachments/assets/6a2db499-99a3-409b-a026-13929f1a05d2)
 
-![455746127_556608230027902_1690292765925592391_n](https://github.com/user-attachments/assets/0675ec11-4b39-4fe5-b160-98b81d9f0e5c)
-![407718241_409684081386985_1747931674347959045_n](https://github.com/user-attachments/assets/82d33faf-6aa9-42d1-a480-2e6cc83074c2)
-![440952255_495329872822405_1013185147982191763_n](https://github.com/user-attachments/assets/2ee05980-a603-4a61-9143-40c53e5aa0ca)
+
 
 
 
